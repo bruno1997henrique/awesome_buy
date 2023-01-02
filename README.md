@@ -1,14 +1,14 @@
 # Awesomebuy
 ##_An standard e-commerce website. Another big e-commerces's desirable changes are used as base to build this project._
 
+##Summary
+- Awesomebuy
+- Architeture and stack
+- To run
+- Changes, tests and validation history
+- Updates and monitoring
 
 ## Awesomebuy
-## Architeture and stack
-## To run
-## Changes, tests and validation history
-## Updates and monitoring
-
-Awesomebuy
 
 Awesomebuy is a web application that improves desirable design/structure from another e-commerce websites, as 'Mercado Livre', 'Amazon', 'Americanas', etc.
 
@@ -39,13 +39,13 @@ Download the css+html files. Open the html in any compatible browser. Include it
 ## Changes, tests and validation history
 
 ###Changes history
-   [2022-12-26] - Initial version
+-[2022-12-26] - Initial version
 ###Tests history 
-   [2022-12-26] - Initial general tests
+-[2022-12-26] - Initial general tests
 ###Validation history
-   [2022-12-26] - Initial validation
+-[2022-12-26] - Initial validation
 
 
 ## Updates and monitoring
 
-###  [2022-12-26] - Initial version
+-[2022-12-26] - Initial version
