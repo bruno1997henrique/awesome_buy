@@ -38,14 +38,15 @@ Download the css+html files. Open the html in any compatible browser. Include it
 
 ## Changes, tests and validation history
 
-###Changes history
+[Changes history]
 -[2022-12-26] - Initial version
-###Tests history 
+[Tests history] 
 -[2022-12-26] - Initial general tests
-###Validation history
+[Validation history]
 -[2022-12-26] - Initial validation
 
 
 ## Updates and monitoring
 
+[Updates]
 -[2022-12-26] - Initial version
