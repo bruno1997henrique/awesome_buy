@@ -24,7 +24,7 @@ Awesomebuy uses a number of open source projects to work properly:
 - [mySql] - used as database (tbd)
 - [html5] - standardly used as website base
 - [css3] - used to design the html objects
-- [react] - used in front-end
+- [react] - used in front-end (tbd)
 - [jQuery] - used as library
 
 
